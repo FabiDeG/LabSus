@@ -17,6 +17,5 @@ public class heroes {
 	private ArrayList<String> warriorattack; //Here are all the attacks that the warrior can use
 	private ArrayList<String> arquerattack; //Here are all the attacks that the arguer can use
 	private int life; //This is the life that the heroe have
-	
 
 }
